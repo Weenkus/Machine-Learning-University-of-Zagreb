@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17d2b8c6-16ae-48e7-a772-f105a0c379a1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/linear_discriminative_models/linear_discriminative_models.ipynb" afterPath="$PROJECT_DIR$/linear_discriminative_models/linear_discriminative_models.ipynb" />
-    </list>
+    <list default="true" id="17d2b8c6-16ae-48e7-a772-f105a0c379a1" name="Default" comment="" />
     <ignored path="machine_learning_university_of_zagreb.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +20,7 @@
     <favorites_list name="machine_learning_university_of_zagreb" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -76,7 +74,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -130,10 +127,11 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cats_vs_dogs_redux_kaggle" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
   </component>
